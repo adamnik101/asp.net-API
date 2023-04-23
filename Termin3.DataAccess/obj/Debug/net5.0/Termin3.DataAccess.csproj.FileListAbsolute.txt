@@ -1,0 +1,15 @@
+F:\VS Projects\Termin3\Termin3.DataAccess\bin\Debug\net5.0\Termin3.DataAccess.deps.json
+F:\VS Projects\Termin3\Termin3.DataAccess\bin\Debug\net5.0\Termin3.DataAccess.runtimeconfig.json
+F:\VS Projects\Termin3\Termin3.DataAccess\bin\Debug\net5.0\Termin3.DataAccess.runtimeconfig.dev.json
+F:\VS Projects\Termin3\Termin3.DataAccess\bin\Debug\net5.0\Termin3.DataAccess.dll
+F:\VS Projects\Termin3\Termin3.DataAccess\bin\Debug\net5.0\Termin3.DataAccess.pdb
+F:\VS Projects\Termin3\Termin3.DataAccess\obj\Debug\net5.0\Termin3.DataAccess.csproj.AssemblyReference.cache
+F:\VS Projects\Termin3\Termin3.DataAccess\obj\Debug\net5.0\Termin3.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+F:\VS Projects\Termin3\Termin3.DataAccess\obj\Debug\net5.0\Termin3.DataAccess.AssemblyInfoInputs.cache
+F:\VS Projects\Termin3\Termin3.DataAccess\obj\Debug\net5.0\Termin3.DataAccess.AssemblyInfo.cs
+F:\VS Projects\Termin3\Termin3.DataAccess\obj\Debug\net5.0\Termin3.DataAccess.csproj.CoreCompileInputs.cache
+F:\VS Projects\Termin3\Termin3.DataAccess\obj\Debug\net5.0\Termin3.DataAccess.dll
+F:\VS Projects\Termin3\Termin3.DataAccess\obj\Debug\net5.0\refint\Termin3.DataAccess.dll
+F:\VS Projects\Termin3\Termin3.DataAccess\obj\Debug\net5.0\Termin3.DataAccess.pdb
+F:\VS Projects\Termin3\Termin3.DataAccess\obj\Debug\net5.0\Termin3.DataAccess.genruntimeconfig.cache
+F:\VS Projects\Termin3\Termin3.DataAccess\obj\Debug\net5.0\ref\Termin3.DataAccess.dll
